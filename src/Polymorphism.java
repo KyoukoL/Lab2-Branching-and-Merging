@@ -1,5 +1,4 @@
 public class Polymorphism {
-    // TODO TASK 1: Fix the bugs in this code to pass PolymorphismTest.java
 
     /**
      * Returns the role.
